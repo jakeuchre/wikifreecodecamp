@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	font-family: 'Lato';
+}
+
+.container {
+	padding-top: 50px;
+}
+
+.hasil {
+	text-align: left;
+}
+.hasil li {
+	list-style-type: none;
+	background-color: #F2F1EF;
+	border-radius: 3px;
+}
+.hasil li:hover {
+	background-color: #fff;
+	cursor: pointer;
+}
+
+.input {
+	text-align: center;
+
+}
+
+.footer {
+	padding-top: 70px;
+	
+}
